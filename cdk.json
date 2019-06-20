@@ -1,0 +1,3 @@
+{
+  "app": "npx ts-node bin/meet_up_fargate_demo_service.ts"
+}
